@@ -1,15 +1,14 @@
 # Bibliographie PER 2024
 Voici une liste des différents papiers consulté dans le cadre de mon projet PER sur les Side-channel attacks. Les différents types d'attaques et leurs papiers associés sont listés ci-dessous.
 ## Attaques électromagnétiques
-Screaming Channels :<br>
-https://eurecom-s3.github.io/screaming_channels/
-
+Screaming Channels. When Electromagnetic Side Channels Meet Radio Transceivers :<br>
+https://www.s3.eurecom.fr/docs/ccs18_camurati_preprint.pdf
 
 Graphics Peeping Unit: Exploiting EM Side-Channel Information of GPUs to Eavesdrop on Your Neighbors :<br>
 http://fan-yao.com/paper/2022_SP_EM.pdf
 
 Leveraging Electromagnetic Side-Channel Analysis for the Investigation of IoT Devices :<br>
-https://www.researchgate.net/profile/Mark-Scanlon-3/publication/331832992_Leveraging_Electromagnetic_Side-Channel_Analysis_for_the_Investigation_of_IoT_Devices/links/5ca5bf1c458515f785223c60/Leveraging-Electromagnetic-Side-Channel-Analysis-for-the-Investigation-of-IoT-Devices.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19
+https://www.researchgate.net/profile/Mark-Scanlon-3/publication/331832992_Leveraging_Electromagnetic_Side-Channel_Analysis_for_the_Investigation_of_IoT_Devices/links/5ca5bf1c458515f785223c60/Leveraging-Electromagnetic-Side-Channel-Analysis-for-the-Investigation-of-IoT-Devices.pdf
 
 
 A Survey of Electromagnetic Side-Channel Attacks and Discussion on their Case-Progressing Potential for Digital Forensics :<br>
