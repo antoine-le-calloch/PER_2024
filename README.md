@@ -18,6 +18,8 @@ https://arxiv.org/pdf/1903.07703.pdf
 RSA Key Extraction via Low-Bandwidth Acoustic Cryptanalysis :<br>
 https://cs-people.bu.edu/tromer/papers/acoustic-20131218.pdf
 
+https://github.com/jfreilich/ac-rsa?tab=readme-ov-file
+
 ## Empreinte
 Wireless Device Identification with Radiometric Signatures :<br>
 https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=40eab4b40829cfd930012d22769b30c29c585cc8
