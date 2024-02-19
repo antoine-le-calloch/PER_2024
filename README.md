@@ -14,6 +14,10 @@ https://www.researchgate.net/profile/Mark-Scanlon-3/publication/331832992_Levera
 A Survey of Electromagnetic Side-Channel Attacks and Discussion on their Case-Progressing Potential for Digital Forensics :<br>
 https://arxiv.org/pdf/1903.07703.pdf
 
+
+Cutting Through the Emissions: Feature Selection from Electromagnetic Side-Channel Data for Activity Detection :<br>
+https://dfrws.org/wp-content/uploads/2020/05/Cutting-Through-the-Emissions-Feature-Selection_2020_Forensic-Science-Inter.pdf
+
 ## Attaque par ultrasons
 RSA Key Extraction via Low-Bandwidth Acoustic Cryptanalysis :<br>
 https://cs-people.bu.edu/tromer/papers/acoustic-20131218.pdf
