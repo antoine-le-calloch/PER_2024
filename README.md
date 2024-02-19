@@ -8,7 +8,7 @@ Graphics Peeping Unit: Exploiting EM Side-Channel Information of GPUs to Eavesdr
 http://fan-yao.com/paper/2022_SP_EM.pdf
 
 Leveraging Electromagnetic Side-Channel Analysis for the Investigation of IoT Devices :<br>
-https://www.researchgate.net/profile/Mark-Scanlon-3/publication/331832992_Leveraging_Electromagnetic_Side-Channel_Analysis_for_the_Investigation_of_IoT_Devices/links/5ca5bf1c458515f785223c60/Leveraging-Electromagnetic-Side-Channel-Analysis-for-the-Investigation-of-IoT-Devices.pdf
+https://www.researchgate.net/profile/Mark-Scanlon-3/publication/331832992_Leveraging_Electromagnetic_Side-Channel_Analysis_for_the_Investigation_of_IoT_Devices/links/5ca5bf1c458515f785223c60/Leveraging-Electromagnetic-Side-Channel-Analysis-for-the-Investigation-of-IoT-Devices.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19
 
 
 A Survey of Electromagnetic Side-Channel Attacks and Discussion on their Case-Progressing Potential for Digital Forensics :<br>
