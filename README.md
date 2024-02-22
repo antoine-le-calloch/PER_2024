@@ -18,6 +18,7 @@ https://arxiv.org/pdf/1903.07703.pdf
 Cutting Through the Emissions: Feature Selection from Electromagnetic Side-Channel Data for Activity Detection :<br>
 https://dfrws.org/wp-content/uploads/2020/05/Cutting-Through-the-Emissions-Feature-Selection_2020_Forensic-Science-Inter.pdf
 
+https://faculty.cc.gatech.edu/~milos/Papers/2014_MICRO_SAVAT.pdf
 ## Attaque par ultrasons
 RSA Key Extraction via Low-Bandwidth Acoustic Cryptanalysis :<br>
 https://cs-people.bu.edu/tromer/papers/acoustic-20131218.pdf
