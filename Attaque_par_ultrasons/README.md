@@ -4,10 +4,8 @@ Ce dossier contient les étapes effectuées dans le cadre de l'attaque par ultra
 
 ## Étapes de l'attaque
 
-On installe GnuPG 1.4.14
-		ftp ftp://ftp.gnupg.org/gcrypt/gnupg/gnupg-1.4.14.tar.bz2
-		tar -xjf gnupg-1.4.14.tar.bz2
+On télécharge la version windows de GnuPG 1.4.13 :<br>
+		https://www.gnupg.org/ftp/gcrypt/binary/
 
-On ce déplace dans le dossier et on compile le package
-		./configure
+Puis on lance l'installation<br>
 
